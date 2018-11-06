@@ -5,7 +5,7 @@ There are 2 parts in this programming assignment:
 
 * Basic operations of TensorFlow such as creating variables, placeholders, sessions etc.
 * An application of TensorFlow to decipher sign language for 10 numbers 0-9 such as:
-![](https://github.com/LihaoWang1991/deep-learning-specialization-course-tensorflow/images/hands2.png)
+![](https://github.com/LihaoWang1991/deep-learning-specialization-course-tensorflow/raw/master/images/hands2.PNG)
 
 
 
